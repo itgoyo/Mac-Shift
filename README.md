@@ -5,13 +5,12 @@ Mac使用shift快速切换输入法，程序员的输入法的代码利器
 
 - Karabiner改键位把 `left-shift`改成`f17`
 
-![改建](http://omvbl46i3.bkt.clouddn.com/8bf80e51f198309c3c4dffffea179d54.png)
-
+![改建](/karabiner_keymps.png)
 - `系统偏好设置`-`键盘`-`快捷键`-`输入法`
 
 把`选择上一个输入法`改成`F17` (也就是按一下键盘左边的shift即可)
 
-![F17](http://omvbl46i3.bkt.clouddn.com/777083a0ec8cfd0026f0a9a71ed098bb.png)
+![F17](/keybord.png)
 
 当然了这样子的方法不是最完美的，就是当你的组合快捷键要用到shift的时候，你的左边shift是没有用的，因为它的键位一就那个被改成了F17，所以只能用右边的shift来操作。以上只是本人的做法当然如果你有更好的方法可以和我分享一下。我的IDE使用到shift的组合键并不多，所以这么改基本能满足我的日常开发
 
