@@ -1,3 +1,5 @@
+# b站视频地址： https://www.bilibili.com/video/BV1Zg4y1v7fc/   
+
 # Mac-Shift
 Mac使用shift快速切换输入法，程序员的输入法的代码利器
 
